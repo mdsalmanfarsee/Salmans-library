@@ -26,7 +26,7 @@ function App() {
   }, []);
   return (
     <div className="app">
-      <h1>Salman's Library</h1>
+      <h1>Movie hub</h1>
       <div className="search">
         <input
           placeholder="Search for movies"
