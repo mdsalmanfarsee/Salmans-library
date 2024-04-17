@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Salmans-library/static/css/main.ccfd3975.css",
+    "main.js": "/Salmans-library/static/js/main.3e59bd2c.js",
+    "static/js/453.bf170949.chunk.js": "/Salmans-library/static/js/453.bf170949.chunk.js",
+    "static/media/icons8-search.svg": "/Salmans-library/static/media/icons8-search.986c7c92c94a3bf42ae45bb6cf68ffa0.svg",
+    "index.html": "/Salmans-library/index.html",
+    "main.ccfd3975.css.map": "/Salmans-library/static/css/main.ccfd3975.css.map",
+    "main.3e59bd2c.js.map": "/Salmans-library/static/js/main.3e59bd2c.js.map",
+    "453.bf170949.chunk.js.map": "/Salmans-library/static/js/453.bf170949.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccfd3975.css",
+    "static/js/main.3e59bd2c.js"
+  ]
+}
