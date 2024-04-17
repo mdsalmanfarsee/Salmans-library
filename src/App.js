@@ -27,7 +27,7 @@ function App() {
   return (
     <div className="app">
       <h1>Movie hub</h1>
-      <h3>--By Salman</h3>
+      <h3 className="author ">--By Salman</h3>
       <div className="search">
         <input
           placeholder="Search for movies"
